@@ -2,6 +2,7 @@ body {
 	
 }
 
+
 #banner {
 	width:100%;
 }
@@ -14,6 +15,7 @@ body {
 
 .titulo-principal {
 	padding-left: 20px;
+	font-size: 30px;
 }
 
 .titulo-centralizado {

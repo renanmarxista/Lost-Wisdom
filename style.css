@@ -1,3 +1,8 @@
+head {
+ .titulo{
+		font-size: 60px;	
+		}
+}
 body {
 	
 }
@@ -5,9 +10,7 @@ body {
 #banner {
 	width:100%;
 }
-.titulo{
-font-size: 60px;	
-}
+
 .principal{
 	background: #cecece;
 	padding: 30px;

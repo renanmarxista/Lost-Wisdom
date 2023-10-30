@@ -5,7 +5,9 @@ body {
 #banner {
 	width:100%;
 }
-
+.titulo{
+font-size: 30px;	
+}
 .principal{
 	background: #cecece;
 	padding: 30px;
